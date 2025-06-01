@@ -52,15 +52,3 @@ go run main.go
    - Future-proof transaction security
    - Ready for post-quantum era
 ```
-
-## Next Steps
-
-This POC could be extended to:
-1. Integrate with actual Solana programs
-2. Add zk-SNARK integration for rollups
-3. Implement the quantum compute API gateway
-4. Add AI-accelerated smart contract components
-
-## Architecture Connection
-
-This demonstrates the **"PQC digital signatures"** mentioned in the whitepaper's Technical Architecture section, specifically the foundation for the "QuantumLayer L2 Rollups" security model.
