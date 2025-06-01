@@ -1,4 +1,4 @@
-module quantum-layer-poc
+module pqc-poc
 
 go 1.21
 

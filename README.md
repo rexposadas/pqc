@@ -1,4 +1,4 @@
-# QuantumLayer POC - Post-Quantum Cryptography Demo
+# Post-Quantum Cryptography POC
 
 This is a minimal proof-of-concept implementation of **Post-Quantum Cryptography (PQC)**  
 
@@ -27,16 +27,16 @@ go run main.go
 ## Sample Output
 
 ```
-🚀 QuantumLayer PQC Demo - Post-Quantum Cryptography POC
+🚀 Post-Quantum Cryptography POC
 ============================================================
-✅ Generated quantum-resistant keypair using Dilithium-Mode3
+✅ Generated keypair using Dilithium-Mode3
    Public Key Size: 1952 bytes
    Private Key Size: 4000 bytes
 
 📝 Creating quantum-resistant transaction:
    From: quantum_wallet_1
    To: quantum_wallet_2
-   Amount: 1000 QNTM
+   Amount: 1000 COINS
    Data: quantum-secured transfer
 
 🔐 Transaction signed with quantum-resistant signature
